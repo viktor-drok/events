@@ -2,3 +2,10 @@ textarea {
   width: 600px;
   height: 200px;
 }
+
+th,
+td {
+  min-width: 30px;
+  border: 1px solid black;
+  padding: 0 10px;
+}
